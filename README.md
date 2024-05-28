@@ -156,7 +156,16 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+nameisunknown - [Github](https://github.com/nameisunknown) / [Twitter](https://twitter.com/motai_tk)
 
+## AirBnB Clone - Version 3 
+## Description 
+This is the third version of the AirBnB clone project. This version builds upon the previous iterations by adding new features and
+improvements. 
+## Current Contributor
+nameisunknown - Github [Github](https://github.com/nameisunknown) / [Twitter](https://twitter.com/motai_tk)
+## New Features and Contributions 
+Improvements made to existing features. 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
